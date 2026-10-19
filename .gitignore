@@ -4,6 +4,7 @@ __pycache__/
 .venv/
 venv/
 env/
+.ipynb_checkpoints/
 
 # 密钥和本地配置
 .env
